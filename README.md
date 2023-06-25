@@ -22,3 +22,6 @@
 
 ### 📜 Certificates
 - ISTQB FL
+
+### 💾 Practise & training
+[Postman exercise] (https://github.com/nataliapiska/portfolio/blob/main/natalia_postman.txt)
