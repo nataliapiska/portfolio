@@ -24,7 +24,7 @@
 - ISTQB FL
 
 ### 💾 Practise & training
-[Postman exercise](https://github.com/nataliapiska/portfolio/blob/main/natalia_postman.txt)
-[Exploratory test, sesion 1](https://github.com/nataliapiska/portfolio/blob/main/RAPORT%20Z%20TEST%C3%93W%20EKSPLORACYJNYCH%20sesja%201.pdf)
-[Exploratory test, sesion 2](https://github.com/nataliapiska/portfolio/blob/main/RAPORT%20Z%20TEST%C3%93W%20EKSPLORACYJNYCH%20sesja%202.pdf)
-[Exploratory test, sesion 3](https://github.com/nataliapiska/portfolio/blob/main/RAPORT%20Z%20TEST%C3%93W%20EKSPLORACYJNYCH%20sesja%203.pdf)
+- [Postman exercise](https://github.com/nataliapiska/portfolio/blob/main/natalia_postman.txt)
+- [Exploratory test, sesion 1](https://github.com/nataliapiska/portfolio/blob/main/RAPORT%20Z%20TEST%C3%93W%20EKSPLORACYJNYCH%20sesja%201.pdf)
+- [Exploratory test, sesion 2](https://github.com/nataliapiska/portfolio/blob/main/RAPORT%20Z%20TEST%C3%93W%20EKSPLORACYJNYCH%20sesja%202.pdf)
+- [Exploratory test, sesion 3](https://github.com/nataliapiska/portfolio/blob/main/RAPORT%20Z%20TEST%C3%93W%20EKSPLORACYJNYCH%20sesja%203.pdf)
