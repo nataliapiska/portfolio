@@ -1,4 +1,4 @@
-![software testing](https://github.com/nataliapiska/portfolio/assets/137159205/77bd1222-0546-4831-a16d-9f7d527ca98d)
+![software testing](https://www.keenesystems.com/hs-fs/hubfs/software-testing.jpg?width=900&name=software-testing.jpg)
 
 # Hello, I'm Natalia Piska 🙋‍♀️
 
