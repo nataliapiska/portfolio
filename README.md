@@ -11,7 +11,10 @@
 
  
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack and skills
+- Creating test cases
+- Manual testing of web and mobile application
+- Reporting bugs
 - POSTMAN/Rest API
 - JIRA/CONFLUENCE
 - TESTRAIL/TESTLINK/MANTIS
