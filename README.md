@@ -12,13 +12,14 @@
  
 
 ### 🛠️ Tech Stack and skills
-- Creating test cases
 - Manual testing of web and mobile application
 - Reporting bugs
-- POSTMAN/Rest API
-- JIRA/CONFLUENCE
-- TESTRAIL/TESTLINK/MANTIS
-- MS SQL
+- Creating test cases
+- Basic Rest API testing
+- Basic MS SQL
+- Basic HTML i CSS
+- Basic Git and Github
+- Basic Chrome DevTools
 
 ### 📜 Certificates
 - ISTQB FL
