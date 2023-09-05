@@ -2,6 +2,8 @@
 
 
 
+### TABLE OF CONTENTS
+[About me](https://github.com/nataliapiska/portfolio/blob/main/README.md#about-me)
 
 # Hello, I'm Natalia Piska 🙋‍♀️
 
