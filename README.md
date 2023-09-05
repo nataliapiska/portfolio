@@ -20,21 +20,40 @@
 ### LET'S CONNECT!
 - 📫 How to reach me? **Send me an e-mail <natalia.piska@wp.pl> or write a message on my [LinkedIn](https://www.linkedin.com/in/natalia-piska/)**
 
-
- 
-
-### 🛠️ Tech Stack and skills
-- Manual testing of web and mobile application
-- Reporting bugs
-- Creating test cases
-- Basic Rest API testing
-- MS SQL
-- HTML i CSS
-- Basic Git and Github
-- Chrome DevTools
-
 ### 📜 Certificates
 - ISTQB FL
+
+### 🎓 COURSES
+**Academy of testing- testuj.pl**
+* How to report bugs, creating test cases, basics of working in Scrum
+* Testing REST API in Postman
+* What is SCRUM?
+* Mobile testing
+* MS SQL
+  
+**Cypress: Web Automation Testing from Zero to Hero**
+* JavaScript fundamentals for beginners in the programming
+* Set up and configure Cypress
+* Build locators for any Web Elements using jQuery Selector Engine built-in Cypress
+* Interact and automate any kind of web components
+* What is API. How to interact with APIs, mock API response and make assertions. How to create test data precondition using API calls
+* Organize and reuse code with Page Object design pattern.
+* Configure multiple custom reporters, retry logic for failed tests and run tests in Docker container
+* Parallel test execution, Cypress Dashboard, Cross Browser and Visual testing 
+
+**Postaman and REST API testing**
+* REST API testing
+* Sending requests
+* Defining a variable
+* Defining environments
+* Running tests from the command line
+* Adding tests to requests
+
+**HTML and CSS - know the basis**
+* Know basis of HTML and CSS creating own project
+* Creating functional web page
+* exporting graphics and working with typography
+
 
 ### 💾 Practise & training
 - [Postman exercise](https://github.com/nataliapiska/portfolio/blob/main/natalia_postman.txt)
