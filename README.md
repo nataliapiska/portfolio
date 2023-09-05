@@ -16,10 +16,10 @@
 - Reporting bugs
 - Creating test cases
 - Basic Rest API testing
-- Basic MS SQL
-- Basic HTML i CSS
+- MS SQL
+- HTML i CSS
 - Basic Git and Github
-- Basic Chrome DevTools
+- Chrome DevTools
 
 ### 📜 Certificates
 - ISTQB FL
