@@ -3,8 +3,7 @@
 
 
 ### TABLE OF CONTENTS
-[About me](https://github.com/nataliapiska/portfolio/blob/main/README.md#about-me)  [What I bring to the table](https://github.com/nataliapiska/portfolio/blob/main/README.md#what-i-bring-to-the-table)  
-[Why software testing/QA](https://github.com/nataliapiska/portfolio/blob/main/README.md#why-i-love-what-i-do)  [Let's connect](https://github.com/nataliapiska/portfolio/blob/main/README.md#lets-connect)  [Certificates](https://github.com/nataliapiska/portfolio/blob/main/README.md#-certificates)  [Courses](https://github.com/nataliapiska/portfolio/blob/main/README.md#-courses)  [Practise and training](https://github.com/nataliapiska/portfolio/blob/main/README.md#-practise--training)
+ 📄[About me](https://github.com/nataliapiska/portfolio/blob/main/README.md#about-me)  📄[What I bring to the table](https://github.com/nataliapiska/portfolio/blob/main/README.md#what-i-bring-to-the-table)  📄[Why software testing/QA](https://github.com/nataliapiska/portfolio/blob/main/README.md#why-i-love-what-i-do)   📄[Let's connect](https://github.com/nataliapiska/portfolio/blob/main/README.md#lets-connect)   📄[Certificates](https://github.com/nataliapiska/portfolio/blob/main/README.md#-certificates)   📄[Courses](https://github.com/nataliapiska/portfolio/blob/main/README.md#-courses)   📄[Practise and training](https://github.com/nataliapiska/portfolio/blob/main/README.md#-practise--training)
 
 
 # Hello, I'm Natalia Piska 🙋‍♀️
