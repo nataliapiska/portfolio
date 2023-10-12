@@ -38,7 +38,7 @@
 * Mobile testing
 * MS SQL
   
-**Cypress: Web Automation Testing from Zero to Hero**
+**Cypress: Web Automation Testing from Zero to Hero - Artem Bondar**
 * JavaScript fundamentals for beginners in the programming
 * Set up and configure Cypress
 * Build locators for any Web Elements using jQuery Selector Engine built-in Cypress
