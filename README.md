@@ -73,6 +73,7 @@
 
 
 ### 🤖 Cypress & JavaScript
+- [Podstawowe funkcje strony www.gov.pl](https://github.com/nataliapiska/JS_Cypress_gov_exercise)
 - [First exercise](https://github.com/nataliapiska/portfolio/blob/7b16fa52e7ace49b99a35c19c8ff746dd256be81/firstTest.spec.js)
 - [Exercise with page object](https://github.com/nataliapiska/portfolio/blob/7b16fa52e7ace49b99a35c19c8ff746dd256be81/testWithPageObjects.js)
 - [Exercise with objects](https://github.com/nataliapiska/portfolio/blob/7b16fa52e7ace49b99a35c19c8ff746dd256be81/jsonObjects.spec.js)
